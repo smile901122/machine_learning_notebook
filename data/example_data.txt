@@ -1,0 +1,3 @@
+hello, world!	happy
+i'm sad.	sad
+may name is LiLei.	netral
